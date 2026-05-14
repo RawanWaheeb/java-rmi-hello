@@ -20,4 +20,6 @@ This is a simple Java RMI project that shows how client and server communicate r
 2. Run Client after server is running
 
 ##  Output
-Hello RMI
+he Client will first list the available services, then print the message:
+- HelloService
+-Hello RMI
